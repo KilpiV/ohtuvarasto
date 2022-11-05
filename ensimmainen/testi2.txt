@@ -1,0 +1,8 @@
+Listausta:
+omena
+banaani
+kello
+päärynä
+appelsiini
+viinirypäle
+
