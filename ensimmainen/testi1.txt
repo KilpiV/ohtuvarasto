@@ -1,2 +1,3 @@
 Tekstiä tähän tiedostoon:
-olipa kerran herra R joka oli iloinen pieni mies
+Olipa kerran herra R, joka oli iloinen pieni mies.
+Hän halusi lentää joku päivä.
